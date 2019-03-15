@@ -12,5 +12,9 @@ python make_DataSet.py
 python train.py  
 4.test  
 python test.py  
+
+## Reference
+blog:(http://www.cnblogs.com/edwardbi/p/5647522.html)
+code:(https://github.com/edwardbi/DeepLearningModels/tree/master/RCNN)
    
   
