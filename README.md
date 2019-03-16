@@ -5,16 +5,17 @@ This is an experimental Pytorcn implementation of RCNN - a convnet for object de
 2.opencv3-python 3.4.4.19  
 ## Training Model  
 1.Download the dataset  
-17flowers,http://www.robots.ox.ac.uk/~vgg/data/flowers/17/  
+  17flowers,http://www.robots.ox.ac.uk/~vgg/data/flowers/17/  
 2.make training data format  
-python make_DataSet.py  
+  python make_DataSet.py  
 3.train  
-python train.py  
-4.test  
-python test.py  
+  python train.py  
+
+## Test  
+  python test.py  
 
 ## Reference
-blog:http://www.cnblogs.com/edwardbi/p/5647522.html  
-code:https://github.com/edwardbi/DeepLearningModels/tree/master/RCNN
+  blog:http://www.cnblogs.com/edwardbi/p/5647522.html  
+  code:https://github.com/edwardbi/DeepLearningModels/tree/master/RCNN
    
   
